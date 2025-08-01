@@ -1,0 +1,6 @@
+/build/
+*.class
+*.log
+*.jar
+*.iml
+.DS_Store
